@@ -3,3 +3,4 @@ pandas
 openpyxl
 scikit-learn
 st-supabase-connection
+psycopg2-binary
